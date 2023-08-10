@@ -2,7 +2,7 @@
 
 Understand any Machine Learning concept in three steps
  1.  Youtube/Tiktok short explains a concept in under a minute
- 2.  Youtube video walks through code that implements the concept
+ 2.  Youtube video _(~5mins)_ walks through code that implements the concept
  3.  Tinker with Notebook for hands-on learning
 
 _† No prerequisite other than basic high school math - all concepts required for machine learning are explained_
