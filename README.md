@@ -5,7 +5,7 @@ Understand any Machine Learning concept in three steps
  2.  Youtube video walks through code that implements the concept
  3.  Tinker with Notebook for hands-on learning
 
-_† No prerequisite other than basic high school math - all other concepts required for machine learning are explained_
+_† No prerequisite other than basic high school math - all concepts required for machine learning are explained_
 
 
 ### Machine Learning (ML)
