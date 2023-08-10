@@ -1,6 +1,6 @@
 ### Introduction to Machine Learning _(no prerequisite† )_
 
-Understand any ML concept in three steps
+Understand any Machine Learning concept in three steps
  1.  Youtube/Tiktok short explains a concept in under a minute
  2.  Youtube video walks through code that implements the concept
  3.  Tinker with Notebook for hands-on learning
