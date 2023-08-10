@@ -30,13 +30,6 @@ _† No prerequisite other than basic high school math - all concepts required f
 -  What is OOD (Out Of Distribution) data ?  (coming soon)
 - Few statistical tools essential to get an intuition of data (coming soon)
 
-#### Entropy - its use in ML
-- [What is Entropy?](https://youtube.com/shorts/WeX7omQomh0?feature=share)
-- [Entropy in Physics & Information theory](https://www.youtube.com/shorts/F9YkjKoT2lw)[![Notebooks](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCNotebook.svg)](https://colab.research.google.com/github/taskswithcode/MLIntro/blob/main/EntropyInPhysicsAndInformationTheory.ipynb)
-- [Entropy of an event](https://youtube.com/shorts/_NYONpUzg5A?feature=share)[![Notebooks](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCNotebook.svg)](https://colab.research.google.com/github/taskswithcode/MLIntro/blob/main/ProbForML_2.ipynb) [![Code Walkthrough](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/codewalkthrough.svg)](https://youtu.be/gDX5-HUtvpg)
-- [Entropy of a probability distribution](https://youtube.com/shorts/ym1tI2GdmrU?feature=share)[![Notebooks](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCNotebook.svg)](https://colab.research.google.com/github/taskswithcode/MLIntro/blob/main/ProbForML_2.ipynb) [![Code Walkthrough](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/codewalkthrough.svg)](https://youtu.be/gDX5-HUtvpg)
-- [How is Entropy used to train a machine learning model?](https://youtube.com/shorts/US48l0djiB4?feature=share)
-- [What is KL divergence?](https://youtube.com/shorts/Y6D02Y6duWY?feature=share)
 
 
 ### Calculus for ML
