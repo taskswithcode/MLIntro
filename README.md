@@ -10,7 +10,6 @@ _† No prerequisite other than basic high school math - all concepts required f
 
 ### Machine Learning (ML)
 
-#### Introduction
 - [What is Machine Learning?](https://youtube.com/shorts/qvmrsomzv54?feature=share)
 - [Neural nets explained without Calculus-Part 1](https://youtube.com/shorts/7Fbah_9Xni0?feature=share) [![Notebooks](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCNotebook.svg)](https://colab.research.google.com/github/taskswithcode/MLIntro/blob/main/MLToyModel_arith.ipynb)
 - [Neural nets explained without Calculus-Part 2](https://youtube.com/shorts/jbaXWmERhNs?feature=share)[![Notebooks](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCNotebook.svg)](https://colab.research.google.com/github/taskswithcode/MLIntro/blob/main/MLToyModel_arith.ipynb)
@@ -24,7 +23,6 @@ _† No prerequisite other than basic high school math - all concepts required f
 
 ### Probability for ML
 
-#### Introduction
 - [A less known fact about computing averages](https://youtu.be/6SrH0OQca7Y)[![Notebooks](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCNotebook.svg)](https://colab.research.google.com/github/taskswithcode/MLIntro/blob/main/ProbForML_1.ipynb) [![Code Walkthrough](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/codewalkthrough.svg)](https://youtu.be/QuFo_jWrbyE)
 - [Dissecting one of the most used loss functions of machine learning](https://youtu.be/LOh5-LTdosU) [![Notebooks](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCNotebook.svg)](https://colab.research.google.com/github/taskswithcode/MLIntro/blob/main/ProbForML_2.ipynb) [![Code Walkthrough](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/codewalkthrough.svg)](https://youtu.be/gDX5-HUtvpg)
 -  What is OOD (Out Of Distribution) data ?  (coming soon)
@@ -33,11 +31,9 @@ _† No prerequisite other than basic high school math - all concepts required f
 
 
 ### Calculus for ML
-#### Introduction
 - Derivatives (coming soon)
 
 ### Linear Algebra for ML
-#### Introduction
 - Scalars, vectors, matrices, and tensors (coming soon)
   
 
