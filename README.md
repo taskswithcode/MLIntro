@@ -25,8 +25,6 @@ _† No prerequisite other than basic high school math - all concepts required f
 ### Probability for ML
 
 #### Introduction
-- [We already know key concepts of Probability-1](https://youtube.com/shorts/-njxgtsUUHM?feature=share)
-- [We already know key concepts of Probability-2](https://youtube.com/shorts/P5RYIaLBvxg?feature=share)
 - [A less known fact about computing averages](https://youtu.be/6SrH0OQca7Y)[![Notebooks](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCNotebook.svg)](https://colab.research.google.com/github/taskswithcode/MLIntro/blob/main/ProbForML_1.ipynb) [![Code Walkthrough](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/codewalkthrough.svg)](https://youtu.be/QuFo_jWrbyE)
 - [Dissecting one of the most used loss functions of machine learning](https://youtu.be/LOh5-LTdosU) [![Notebooks](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCNotebook.svg)](https://colab.research.google.com/github/taskswithcode/MLIntro/blob/main/ProbForML_2.ipynb) [![Code Walkthrough](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/codewalkthrough.svg)](https://youtu.be/gDX5-HUtvpg)
 -  What is OOD (Out Of Distribution) data ?  (coming soon)
