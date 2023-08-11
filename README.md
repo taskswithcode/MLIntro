@@ -18,6 +18,7 @@ _† No prerequisite other than basic high school math - all concepts required f
 - [Neural nets explained without Calculus-Part 2](https://youtube.com/shorts/jbaXWmERhNs?feature=share) [![TWC Shorts](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCShorts.svg)](https://youtube.com/shorts/jbaXWmERhNs?feature=share) [![Notebooks](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCNotebook.svg)](https://colab.research.google.com/github/taskswithcode/MLIntro/blob/main/MLToyModel_arith.ipynb)
 - [What is a neural net learning?](https://youtube.com/shorts/PTDB_JRxWTc?feature=share) [![TWC Shorts](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCShorts.svg)](https://youtube.com/shorts/PTDB_JRxWTc?feature=share) [![Notebooks](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCNotebook.svg)](https://colab.research.google.com/github/taskswithcode/MLIntro/blob/main/MLEssence.ipynb)
 - [How does a large neural net learn?](https://youtube.com/shorts/nOCLVk-Xe0o?feature=share) [![TWC Shorts](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCShorts.svg)](https://youtube.com/shorts/nOCLVk-Xe0o?feature=share) [![Notebooks](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCNotebook.svg)](https://colab.research.google.com/github/taskswithcode/MLIntro/blob/main/MLKnobs.ipynb)
+- [What does a Gradient capture? ](https://youtube.com/shorts/mPVBgwBjbTQ?feature=share) [![TWC Shorts](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCShorts.svg)](https://youtube.com/shorts/mPVBgwBjbTQ?feature=share)
 -  [What is Backpropagation? ](https://youtube.com/shorts/C9q-NPmptUM?feature=share) [![TWC Shorts](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCShorts.svg)](https://youtube.com/shorts/C9q-NPmptUM?feature=share) [![Notebooks](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCNotebook.svg)](https://colab.research.google.com/github/taskswithcode/MLIntro/blob/main/MLToyModel.ipynb)
 
 #### Advanced/Current
@@ -27,12 +28,15 @@ _† No prerequisite other than basic high school math - all concepts required f
 
 ### Quantifying uncertainty
 
+#### Introduction
+
 - [A less known fact about computing averages](https://youtu.be/6SrH0OQca7Y) [![TWC Shorts](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCShorts.svg)](https://youtu.be/6SrH0OQca7Y) [![Notebooks](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCNotebook.svg)](https://colab.research.google.com/github/taskswithcode/MLIntro/blob/main/ProbForML_1.ipynb) [![Code Walkthrough](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/codewalkthrough.svg)](https://youtu.be/QuFo_jWrbyE)
 - [Dissecting cross-entropy loss - one of the most used loss functions](https://youtu.be/LOh5-LTdosU) [![TWC Shorts](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCShorts.svg)](https://youtu.be/LOh5-LTdosU) [![Notebooks](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCNotebook.svg)](https://colab.research.google.com/github/taskswithcode/MLIntro/blob/main/ProbForML_2.ipynb) [![Code Walkthrough](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/codewalkthrough.svg)](https://youtu.be/gDX5-HUtvpg)
 -  Assumptions made when learning from data (IID,OOD) (coming soon)
 - Few statistical tools essential to get an intuition of data (coming soon)
 
-
+#### Advanced
+- [Entropy in physics and information theory - demystified](https://youtube.com/shorts/F9YkjKoT2lw?feature=share) [![TWC Shorts](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCShorts.svg)](https://youtube.com/shorts/F9YkjKoT2lw?feature=share)
 
 ### Representing data
 - Scalars, vectors, matrices, and tensors (coming soon)
