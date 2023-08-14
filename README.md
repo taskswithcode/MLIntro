@@ -36,7 +36,7 @@ _† No prerequisite other than basic high school math - all concepts required f
 - Few statistical tools essential to get an intuition of data (coming soon)
 
 #### Advanced
-- [Entropy in physics and information theory - demystified](https://youtube.com/shorts/F9YkjKoT2lw?feature=share) [![TWC Shorts](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCShorts.svg)](https://youtube.com/shorts/F9YkjKoT2lw?feature=share)
+- [Entropy in physics and information theory](https://youtube.com/shorts/F9YkjKoT2lw?feature=share) [![TWC Shorts](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCShorts.svg)](https://youtube.com/shorts/F9YkjKoT2lw?feature=share)
 
 ### Representing data
 - Scalars, vectors, matrices, and tensors (coming soon)
