@@ -36,7 +36,7 @@ _† No prerequisite other than basic high school math - all concepts required f
 - Few statistical tools essential to get an intuition of data (coming soon)
 
 #### Advanced
-- [Entropy in physics and information theory](https://youtube.com/shorts/F9YkjKoT2lw?feature=share) [![TWC Shorts](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCShorts.svg)](https://youtube.com/shorts/F9YkjKoT2lw?feature=share) [![Notebooks](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCNotebook.svg)](https://colab.research.google.com/github/taskswithcode/MLIntro/blob/main/EntropyInPhysicsAndInformationTheory.ipynb)[![Code Walkthrough](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/codewalkthrough.svg)](https://youtu.be/YlKZczs_knQ)
+- [Entropy in physics and information theory](https://youtube.com/shorts/F9YkjKoT2lw?feature=share) [![TWC Shorts](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCShorts.svg)](https://youtube.com/shorts/F9YkjKoT2lw?feature=share) [![Notebooks](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCNotebook.svg)](https://colab.research.google.com/github/taskswithcode/MLIntro/blob/main/EntropyInPhysicsAndInformationTheory.ipynb)  [![Code Walkthrough](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/codewalkthrough.svg)](https://youtu.be/YlKZczs_knQ)
 
 
 
