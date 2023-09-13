@@ -2,7 +2,7 @@
 
 Understand any Machine Learning (ML) concept in three steps
  1.  [Youtube](https://www.youtube.com/@TWCEditor) / [Tiktok](https://www.tiktok.com/@twceditor) short explains a concept in under a minute
- 2.  [Youtube video](https://www.youtube.com/@TWCEditor) _( ~5 mins )_ walks through code that implements the concept
+ 2.  [Youtube video](https://www.youtube.com/@TWCEditor) _( ~5 mins )_ explains or walks through code that implements the concept
  3.  Tinker with Notebook for hands-on learning
 
 _† No prerequisite other than basic high school math - all concepts required for machine learning are explained_
