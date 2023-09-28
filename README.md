@@ -1,9 +1,9 @@
 ### Introduction to Machine Learning _(no prerequisite† )_
 
-Understand & master any Machine Learning (ML) concept in at most three steps
- 1.  [Youtube](https://www.youtube.com/@TWCEditor) / [Tiktok](https://www.tiktok.com/@twceditor) short **explains** a concept in under a minute††
- 2.  [Youtube video](https://www.youtube.com/@TWCEditor) _( ~5 mins )_ **walks through code** that implements the concept
- 3.  **Tinker** with Notebook for hands-on learning
+Master any Machine Learning (ML) concept in just three steps
+ 1.  Watch a short [Youtube](https://www.youtube.com/@TWCEditor) / [Tiktok](https://www.tiktok.com/@twceditor) that **explains** the concept in under a minute††
+ 2.  View a longer [Youtube video](https://www.youtube.com/@TWCEditor) _(  about 5 mins )_ that **walks you through the code** that implements the concept
+ 3.  Engage with an interactive notebook for **hands-on learning**
 
 
 
