@@ -1,4 +1,4 @@
-##### This repo hostss notebook for [conceptswithcode.com](https://conceptswithcode.com)
+##### This repo hosts notebook for [conceptswithcode.com](https://conceptswithcode.com)
 
 <p align="center">
   <a href="https://conceptswithcode.com">
